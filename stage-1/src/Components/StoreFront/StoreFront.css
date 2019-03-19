@@ -1,0 +1,26 @@
+.storefront-container {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-family: 'Source Code Pro', monospace;
+}
+img {
+  height: 400px;
+  width: auto;
+}
+
+.product-container {
+  margin: 5vh 0;
+}
+
+
+.storefront-container h2 {
+  font-size: 30px;
+  margin: 3vh 0;
+}
+
+.storefront-container h3 {
+  font-size: 24px;
+  margin-bottom: 3vh;
+}
